@@ -1,2 +1,2 @@
-# sublimetext-settings
-Personal settings for sublime text
+# Personal settings for sublime text
+
